@@ -9,8 +9,8 @@ public class DANI extends PApplet {
 	String[] sonnet;
 
 	public void settings() {
-		size(1000, 1000);
-		// fullScreen(SPAN);
+		size(1024, 1000);
+	
 	}
 
 	public void setup() {
